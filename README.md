@@ -7,7 +7,7 @@
 ```Funcionalidades Principais (Requisitos Funcionais)```
 >>RF01: O usuário poderá buscar livros por título, autor ou ISBN na Google Books API.
 
->RF02: O usuário poderá salvar livros em sua biblioteca pessoal com status (Quero Ler, Lendo, Lido).
+>>RF02: O usuário poderá salvar livros em sua biblioteca pessoal com status (Quero Ler, Lendo, Lido).
 
 >>RF03: O usuário poderá registrar e atualizar progresso de leitura (página atual/total).
 
