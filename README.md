@@ -16,3 +16,11 @@
 >>RF05: O app armazenará os dados da biblioteca pessoal localmente com Room Database.
 
 ```Operações de Rede```
+>>O aplicativo buscará informações de livros na Google Books API via Retrofit para pesquisa e detalhes de livros.
+
+>>As operações de criação, atualização e exclusão serão simuladas usando JSONPlaceholder para demonstração das requisições HTTP completas.
+
+# ETAPA 2 - Definição do Fluxo de Navegação entre Activities ou Telas
+
+```Diagrama Simples```
+<img width="643" height="138" alt="image" src="https://github.com/user-attachments/assets/4ca9aff8-c639-4d86-a809-fc7aaa0335bf" />
