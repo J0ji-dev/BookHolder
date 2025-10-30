@@ -75,7 +75,7 @@ Dados calculados automaticamente da biblioteca pessoal
 
 O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.
 
-#ETAPA 3 - Planejamento do Banco de Dados (Room)
+# ETAPA 3 - Planejamento do Banco de Dados (Room)
 
 ```Entidade: Book:```
 
@@ -110,6 +110,33 @@ O usuário pode navegar livremente entre as funcionalidades, criando um fluxo co
 
 >>Operações de salvar/editar → JSONPlaceholder (simulação)
 
+```Como os Dados Serão Sincronizados:```
+
+Não há sincronização real - o app usa:
+
+>>Google Books API apenas para buscar informações de livros
+
+>>JSONPlaceholder para simular operações (POST, PUT, DELETE)
+
+>>Room para guardar tudo no dispositivo
+
+# Etapa 4 — Integração de Remota
+
+```Abordagem de Rede Escolhida:```
+
+```Retrofit para consumo de APIs públicas:```
+
+>>Google Books API (dados reais de livros)
+
+>>JSONPlaceholder (simulação de operações)
+
+```Endpoints que o App Utilizará:```
+
+<img width="854" height="164" alt="image" src="https://github.com/user-attachments/assets/cd2d0996-2f7b-409b-990f-07cd87e83bd8" />
+
+```Sincronização:```
+
+<img width="431" height="335" alt="image" src="https://github.com/user-attachments/assets/562f717f-b272-4c1f-950f-9d71baa337d3" />
 
 
 
