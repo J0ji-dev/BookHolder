@@ -22,6 +22,29 @@
 
 # ETAPA 2 - Definição do Fluxo de Navegação entre Activities ou Telas
 
-```Diagrama Simples```
+```Diagrama Simples:```
 
 <img width="643" height="138" alt="image" src="https://github.com/user-attachments/assets/4ca9aff8-c639-4d86-a809-fc7aaa0335bf" />
+
+
+```Telas com Requisições Externas (Retrofit)```
+>>SearchScreen - Busca livros na Google Books API (GET)
+
+>>BookDetailScreen - Carrega detalhes da API (GET)
+
+```Telas com Dados Locais (Room)```
+>>LibraryScreen - Gerencia biblioteca pessoal (CRUD)
+
+>>EditProgressScreen - Atualiza progresso (UPDATE)
+
+>>StatsScreen - Exibe estatísticas (READ)
+
+
+```Estratégia de Navegação:```
+>>O app utilizará uma única Activity com Navigation Compose
+
+
+
+
+
+
