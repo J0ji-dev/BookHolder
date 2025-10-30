@@ -45,7 +45,8 @@
 
 <img width="1612" height="1603" alt="deepseek_mermaid_20251030_2a5b94" src="https://github.com/user-attachments/assets/01baa45a-3532-413c-86a6-328c8179763f" />
 
-```👤 Fluxo do Usuário no App```.
+```👤 Fluxo do Usuário no App```
+
 1. Início
 SplashScreen: App inicia com tela de apresentação (2 segundos)
 
@@ -71,6 +72,7 @@ StatsScreen: Visualiza gráficos e métricas de leitura
 Dados calculados automaticamente da biblioteca pessoal
 
 ```Navegação Circular```
+
 O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.👤 Fluxo do Usuário no App
 1. Início
 SplashScreen: App inicia com tela de apresentação (2 segundos)
@@ -97,6 +99,7 @@ StatsScreen: Visualiza gráficos e métricas de leitura
 Dados calculados automaticamente da biblioteca pessoal
 
 ```Navegação Circular```
+
 O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.
 
 
