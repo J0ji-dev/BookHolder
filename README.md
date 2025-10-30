@@ -127,7 +127,7 @@ Não há sincronização real - o app usa:
 
 >>Room para guardar tudo no dispositivo
 
-# Etapa 4 — Integração de Remota
+# ETAPA 4 — Integração de Dados Remota
 
 ```Abordagem de Rede Escolhida:```
 
