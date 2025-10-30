@@ -73,33 +73,6 @@ Dados calculados automaticamente da biblioteca pessoal
 
 ```Navegação Circular```
 
-O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.👤 Fluxo do Usuário no App
-1. Início
-SplashScreen: App inicia com tela de apresentação (2 segundos)
-
-HomeScreen: Menu principal com 3 opções
-
-2. Buscar Livros
-SearchScreen: Usuário pesquisa livros na Google Books API
-
-BookDetailScreen: Visualiza detalhes do livro selecionado
-
-EditProgressScreen: Adiciona à biblioteca e define status/páginas
-
-3. Minha Biblioteca
-LibraryScreen: Visualiza todos os livros salvos (Quero Ler, Lendo, Lidos)
-
-BookDetailScreen: Acessa detalhes de livro da biblioteca
-
-EditProgressScreen: Atualiza progresso de leitura
-
-4. Estatísticas
-StatsScreen: Visualiza gráficos e métricas de leitura
-
-Dados calculados automaticamente da biblioteca pessoal
-
-```Navegação Circular```
-
 O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.
 
 
