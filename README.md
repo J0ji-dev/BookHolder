@@ -23,4 +23,5 @@
 # ETAPA 2 - Definição do Fluxo de Navegação entre Activities ou Telas
 
 ```Diagrama Simples```
+
 <img width="643" height="138" alt="image" src="https://github.com/user-attachments/assets/4ca9aff8-c639-4d86-a809-fc7aaa0335bf" />
