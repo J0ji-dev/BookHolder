@@ -1,3 +1,10 @@
+# ALUNOS:
+
+```João Antônio de Souza Vieira Sandes - RGM: 33959188```
+
+```Gustavo Godoy - RGM: 32702949```
+
+
 # ETAPA 1 — Definição do Tema e Funcionalidades Principais
 
 ```Tema do Aplicativo: BookHolder - Organizador de Leitura Pessoal```
@@ -138,8 +145,40 @@ Não há sincronização real - o app usa:
 
 <img width="431" height="335" alt="image" src="https://github.com/user-attachments/assets/562f717f-b272-4c1f-950f-9d71baa337d3" />
 
+# ETAPA 5 - Considerações Técnicas:
+
+```Arquitetura Escolhida:```
+
+```MVVM (Model-View-ViewModel)```
+
+>>Separação clara entre lógica e interface
+
+>>Ideal para Jetpack Compose
+
+>>Fácil manutenção e testes
+
+```Principais Bibliotecas:```
+
+>>Retrofit - Consumo de APIs
+
+>>Room - Banco de dados local
+
+>>ViewModel - Gerenciamento de estado da tela
+
+>>MutableState - Estado reativo no Compose
+
+>>Jetpack Compose - Interface do usuário
+
+>>Navigation Compose - Navegação entre telas
+
+>>Corrotinas - Operações assíncronas
 
 
+```Uso de Corrotinas:```
+
+<img width="400" height="271" alt="image" src="https://github.com/user-attachments/assets/b750c622-5a99-4c11-b285-2cee77a0472f" />
 
 
+```Fluxo de Dados:```
 
+<img width="490" height="108" alt="image" src="https://github.com/user-attachments/assets/e1a43368-ff7c-4071-a3eb-5fdf39ac6de9" />
