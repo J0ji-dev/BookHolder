@@ -45,7 +45,7 @@
 
 <img width="1612" height="1603" alt="deepseek_mermaid_20251030_2a5b94" src="https://github.com/user-attachments/assets/01baa45a-3532-413c-86a6-328c8179763f" />
 
-```👤 Fluxo do Usuário no App```
+```👤 Fluxo do Usuário no App:```
 
 1. Início
 SplashScreen: App inicia com tela de apresentação (2 segundos)
@@ -71,9 +71,45 @@ StatsScreen: Visualiza gráficos e métricas de leitura
 
 Dados calculados automaticamente da biblioteca pessoal
 
-```Navegação Circular```
+```Navegação Circular:```
 
 O usuário pode navegar livremente entre as funcionalidades, criando um fluxo contínuo de descoberta e organização de leitura.
+
+#ETAPA 3 - Planejamento do Banco de Dados (Room)
+
+```Entidade: Book:```
+
+<img width="590" height="296" alt="image" src="https://github.com/user-attachments/assets/30ca723c-783f-4355-ac1d-df602c44685e" />
+
+
+```Entidade: UserBook:```
+
+<img width="625" height="303" alt="image" src="https://github.com/user-attachments/assets/8e019c92-218e-47fa-a005-8496e99486ac" />
+
+
+```Entidade: ReadingSession:```
+
+<img width="595" height="203" alt="image" src="https://github.com/user-attachments/assets/9605a5db-337b-41af-9804-d0d61f3d6cc6" />
+
+```Diagrama de Banco de Dados:```
+
+<img width="546" height="174" alt="image" src="https://github.com/user-attachments/assets/6615df9d-9a6d-4b43-a689-ca129bbc8445" />
+
+
+```Como os Dados Serão Persistidos:```
+
+```Localmente (Room):```
+
+>>Todos os dados da biblioteca pessoal ficam salvos no celular
+
+>>Funciona offline sem internet
+
+```Na Nuvem (APIs):```
+
+>>Busca de livros → Google Books API
+
+>>Operações de salvar/editar → JSONPlaceholder (simulação)
+
 
 
 
