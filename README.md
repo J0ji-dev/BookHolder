@@ -14,11 +14,11 @@
 ```Funcionalidades Principais (Requisitos Funcionais)```
 >>RF01: O usuário poderá buscar livros por título, autor ou ISBN na Google Books API.
 
->>RF02: O usuário poderá salvar livros em sua biblioteca pessoal com status (Quero Ler, Lendo, Lido).
+>>RF02: O usuário poderá salvar livros em sua biblioteca pessoal com status (Lendo, Terminado).
 
->>RF03: O usuário poderá registrar e atualizar progresso de leitura (página atual/total).
+>>RF03: O usuário poderá ter acesso a estatísticas dos livros lidos.
 
->>RF04: O app exibirá estatísticas de leitura (livros lidos, tempo de leitura, etc.).
+>>RF04: O app exibirá estatísticas de leitura (livros lidos, etc.).
 
 >>RF05: O app armazenará os dados da biblioteca pessoal localmente com Room Database.
 
@@ -123,7 +123,7 @@ Não há sincronização real - o app usa:
 
 >>Google Books API apenas para buscar informações de livros
 
->>JSONPlaceholder para simular operações (POST, PUT, DELETE)
+>>JSONPlaceholder para simular operações (POST, PUT)
 
 >>Room para guardar tudo no dispositivo
 
@@ -134,8 +134,6 @@ Não há sincronização real - o app usa:
 ```Retrofit para consumo de APIs públicas:```
 
 >>Google Books API (dados reais de livros)
-
->>JSONPlaceholder (simulação de operações)
 
 ```Endpoints que o App Utilizará:```
 
