@@ -182,7 +182,7 @@ Não há sincronização real - o app usa:
 <img width="490" height="108" alt="image" src="https://github.com/user-attachments/assets/e1a43368-ff7c-4071-a3eb-5fdf39ac6de9" />
 
 
-#ATUALIZAÇÃO DO QUE CADA INTEGRANTE FEZ:
+# ATUALIZAÇÃO DO QUE CADA INTEGRANTE FEZ:
 ```João Antônio de Souza Vieira Sandes: Configuração da arquitetura MVVM e responsável pelos ViewsModels.```
 
 
